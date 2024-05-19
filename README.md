@@ -9,6 +9,7 @@ This project provides a video conferencing application built with Node.js. It al
 > it offers a feature-rich experience that
 > simplifies remote communication.
 
+![ScreenShot](https://repository-images.githubusercontent.com/802875813/1540a751-b05b-4ca0-9835-54906136ece0)
 
 ## Features
 
