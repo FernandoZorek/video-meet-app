@@ -1,0 +1,20 @@
+{
+  "name": "video-meet-APP",
+  "version": "1.0.0",
+  "description": "Video Meet APP",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node server.js",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.19.2",
+    "nodemon": "^3.1.0",
+    "peer": "^1.0.2",
+    "socket.io": "^4.7.5",
+    "uuid": "^9.0.1"
+  }
+}

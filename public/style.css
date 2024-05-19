@@ -1,0 +1,33 @@
+header {
+    background-image: linear-gradient(to right, #007bff, #111111); /* Example gradient */
+    text-align: center; 
+}
+
+main {
+    padding-bottom: 100px;
+}
+
+.card {
+    border-color: rgba(0, 0, 0, 0.1);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.card-img-top {
+    padding: 20px;
+}
+
+.alert {
+    position: fixed;
+    top: 2%;
+    right: 2%;
+    max-width: 300px;
+}
+
+.row-videos video {
+    padding: 1%;
+    max-width: 50vw;
+}
