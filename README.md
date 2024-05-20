@@ -30,6 +30,7 @@ This project uses several open source projects to function correctly::
 - [Peerjs] - Simplifies WebRTC peer-to-peer data, video, and audio calls;
 - [EJS] - A templating engine used for server-side rendering of HTML pages;
 - [uuid] - Generates unique identifiers for users.
+- [Bootstrap] - Bootstrap is a free and open-source CSS framework directed at responsive, mobile-first front-end web development.
 
 
 ## Installation
@@ -67,4 +68,5 @@ MIT
 [Peerjs]: <https://github.com/peers/peerjs>
 [EJS]: <https://ejs.co/#install>
 [uuid]: <https://www.npmjs.com/package/uuid>
+[Bootstrap]: <https://getbootstrap.com/docs/5.3/getting-started/introduction/>
 
